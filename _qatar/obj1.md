@@ -10,7 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "img/logo.png"
-full: "img/logo.png"
-manifest: "/img/derivatives/iiif/obj1/manifest.json"
+thumbnail: "/img/logo.png"
+full: "/img/logo.png"
 ---
